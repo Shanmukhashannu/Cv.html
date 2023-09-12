@@ -19,7 +19,7 @@
             </div>
             <div class="Contact">
                 <h2>Contact</h2>
-                <p><b>Email id:</b>Shanmukh.cvg@mail.com</p> 
+                <p><b>Email id:</b>Shanmukh.cv@gmail.com</p> 
                 <p><b>Mobile no :88864 50656</b></p>
             </div>
             <div class="Skills">
